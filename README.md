@@ -1,6 +1,6 @@
 # MICROSOFT AZURE AL900 - LANGUAGE STUDIO - PARA ALÉM DO QUE ESTÁ ESCRITO📝
 
-Projeto com Language Studio, analisando sentimentos e opiniões, com base em sentenças criadas e declaração retirada de portal virtual. Uma ferramenta extremamente interessante de analisar comentários de consumidores e gerar novas estratégias de mercado.
+Projeto com Language Studio, analisando sentimentos e opiniões, com base em sentenças criadas e declaração retirada de portal virtual. Uma ferramenta extremamente interessante para se analisar comentários de consumidores e clientes, gerando materiais e informações inéditas para novas estratégias de mercado.
 
 Documentação utilizada como base:
 
