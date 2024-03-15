@@ -1,5 +1,6 @@
 # MICROSOFT AZURE AL900 - LANGUAGE STUDIO - PARA ALÉM DO QUE ESTÁ ESCRITO📝
-Projeto com Language Studio, analisando sentimentos e opiniões, com base em sentenças criadas e declaração retirada de portal virtual.
+
+Projeto com Language Studio, analisando sentimentos e opiniões, com base em sentenças criadas e declaração retirada de portal virtual. Uma forma extremamente interessante de analisar comentários de consumidores e gerar novas estratégias de mercado.
 
 Documentação utilizada como base:
 
@@ -53,6 +54,6 @@ Como o próprio programa detectou, essa é uma sentença 98% negativa; 1% neutro
 ##
    ![image](https://github.com/vgastaldelli/LABORATORIOAZUREAI900-LANGUAGESTUDIO2024/assets/160192109/cd691213-59e0-4e6d-8830-1f335fe8e9b2)
 
-   A própria frase acima mostra algo muito interessante: o programa 34% para positivo; 30% neutro e 36% negativo. Ou seja, o programa não conseguiu estabelecer um target nem mesmo definir os sentimentos e opiniões presentes na frase.
+   A própria frase acima mostra algo muito interessante: o programa constatou 34% para positivo; 30% neutro e 36% negativo. Ou seja, o programa não conseguiu estabelecer um target nem mesmo definir os sentimentos e opiniões presentes na frase. Assim, pode ser considerada a partir desses dados, uma frase ambígua.
 
 
